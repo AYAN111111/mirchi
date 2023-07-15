@@ -1,0 +1,323 @@
+/* Navbar */
+body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+#nav-m{
+   margin-left: 280px;
+}
+#home{
+    
+}
+#about{
+    padding-left: 62px;
+}
+#menu{
+    padding-left: 54px;
+}
+#offers{
+    padding-left: 67px;
+}
+#contact{
+    padding-left: 44px;
+}
+#nav-main{
+    height: 83px;
+    background-color: #4a1831;
+    padding: 0%;
+}
+.nav-link{
+    font-size: 25px;
+    font-family: 'Montserrat', 'Regular';
+    color: #ffd7ad;
+}
+
+
+/* Banar */
+#banar{
+    background-image: url(../img/banar\ back.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 796px;
+    width: 100%;
+    padding: 0%;
+}
+.banar-logo{
+    margin-top: 48px;
+    margin-left: 69px;
+}
+
+.Mariachi{
+    font-size: 124.63px;
+    padding-top: 26px;
+    margin-left: 82px; 
+    font-family: 'Roboto', sans-serif;
+    color: #ffd7ad;
+}
+.Mariachi-para{
+    padding: 0%;
+    color: #ffd7ad;
+    font-size: 29.72px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 5px;
+    margin-left: 61px;
+}
+#order-now{
+    font-family: 'Roboto', sans-serif;
+    color: #4a1831;
+    background-color: #ffd7ad;
+    width: 322px;
+    height: 66px;
+    font-size: 25px;
+    margin-left: 61px;
+    margin-top: 30px;
+    border-color: #ffd7ad;
+}
+
+
+/* Section-1 */
+#section-1{
+    background-color: #ffd7ad;
+    /* height: 471px; */
+    height: auto;
+    width: 100%;
+    padding: 0%;
+}
+.section-1-h1{
+    font-size: 63.66px;
+    font-family: 'Roboto', sans-serif;
+    color: #4a1831;
+    padding-top: 66px;
+    text-align: center;
+}
+.section-1-para{
+    text-align: center;
+    font-size: 25.23px;
+    font-family: 'Roboto', sans-serif;
+    color: #4a1831;
+    padding-top: 30px;
+}
+#see-menu{
+    font-family: 'Roboto', sans-serif;
+    color: #ffd7ad;
+    background-color: #4a1831;
+    border-color: #4a1831;
+    font-size: 25px;
+    width: 322px;
+    height: 66px;
+    margin-top: 30px;
+    margin-left: 464px;
+}
+.section-1-img{
+    width: 100vw;
+    margin-top: 88px;
+}
+.section-1-img-2{
+    margin-top: 99px;
+    margin-left: 15px;
+}
+.section-1-about{
+    font-family: 'Roboto', sans-serif;
+    font-size: 75px;
+    color: #4a1831;
+    padding-top: 226px;
+    padding-left: 40px;
+}
+.section-1-para-2{
+    color: #4a1831;
+    font-family: 'Roboto', sans-serif;
+    font-size: 29.72px;
+    padding-left: 40px;
+}
+#Tell-me-more{
+    font-family: 'Roboto', sans-serif;
+    color: #ffd7ad;
+    background-color: #4a1831;
+    border-color: #4a1831;
+    font-size: 25px;
+    width: 322px;
+    height: 66px;
+    margin-top: 8px;
+    margin-left: 40px;
+}
+
+.section-2{
+    height: 751px;
+    width: 100vw;
+    background-image: url(../img/section-2-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 170px;
+    margin-left: 140px;
+}
+.section-2-h1{
+    font-size: 167.36px;
+    font-family: 'Roboto', sans-serif;
+    color: #e63956;
+    line-height: 0%;
+}
+.discount{
+    font-size: 64.16px;
+    font-family: 'Roboto', sans-serif;
+    color: #55112e;
+    height: auto;
+    line-height: 85%;
+    padding-left: 8px;
+}
+.on-tacos{
+    font-size: 104.21px;
+    font-family: 'Roboto', sans-serif;
+    color: #6cc5ac;
+    line-height: 80%;
+}
+
+/* section-3 */
+.section-3{
+    background-color: #4a1831;
+    height: 785px;
+    width: 100%;
+}
+.our-offers{
+    font-size: 75px;
+    font-family: 'Roboto', sans-serif;
+    color: #e7be9c;
+    padding-top: 210px;
+    padding-left: 115px;
+}
+.our-para{
+    font-size: 26.72px;
+    font-family: 'Roboto', sans-serif;
+    color: #e7be9c;
+    padding-left: 115px;
+
+}
+#see-offers{
+    font-family: 'Roboto', sans-serif;
+    color: #4a1831;
+    background-color: #ffd7ad;
+    width: 322px;
+    height: 66px;
+    font-size: 25px;
+    border-color: #ffd7ad;
+    margin-left: 115px;
+    margin-top: 44px;
+
+}
+.section-3-img{
+    padding-top: 122px;
+}
+
+
+/* Section-4 */
+.section-4{
+    height: 796px;
+    width: 100%;
+    background-image: url(../img/section-4-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.overlay{
+    background: #4a183196;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.section-4-logo{
+    padding-top: 193px;
+    padding-left: 557px;
+}
+.section-4-para{
+    font-size: 41.67px;
+    font-family: 'Roboto', sans-serif;
+    color: #e7be9c;
+    text-align: center;
+    padding-top: 60px;
+}
+.section-4-para-s{
+    font-size: 44.9px;
+    font-family: 'Roboto', sans-serif;
+    color: #e7be9c;
+    text-align: center;
+    padding-top: 15px;
+}
+
+/* Section-5 */
+.section-5{
+    height: 796px;
+    width: 100%;
+    background-color: #ffd7ad;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+.section-5-h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 75px;
+    color: #4a1831;
+    padding-top: 215px;
+    text-align: center;
+}
+.section-5-para{
+    font-size: 29.72px;
+    font-family: 'Roboto', sans-serif;
+    color: #4a1831;
+    text-align: center;
+}
+#subcribe{
+    height: 65px;
+    width: 224px;
+    background-color: #4a1831;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    border-color: #4a1831;
+    position: absolute;
+    left: 782px;
+}
+.email{
+    height: 65px;
+    width: 572px;
+    border: none;
+    margin-left: 270px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.email-all{
+    margin-top: 110px;
+}
+
+/* Section-6 */
+.section-6{
+    height: 796px;
+    width: 100%;
+    background-color: #4a1831;
+}
+.section-6-mariachi{
+    font-size: 31.6px;
+    color: #ffd7ad;
+    font-family: 'Roboto', sans-serif;
+}
+.section-6-mariachi-para{
+    font-size: 23.7px;
+    color: #ffd7ad;
+    font-family: 'Roboto', sans-serif;
+}
+#col-1{
+    padding-left: 80px;
+    padding-top: 242px;
+}
+#col-2{
+    padding-left: 50px;
+    padding-top: 242px;
+}
+#col-3{
+    padding-left: 45px;
+    padding-top: 242px;
+}
+#col-4{
+    padding-left: 45px;
+    padding-top: 242px;
+}
